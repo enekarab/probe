@@ -1,0 +1,119 @@
+ *{
+	padding: 0;
+	margin: 0;
+	display: auto;
+ }
+ .panel {
+      border: 0px solid; 
+      border-radius:0 !important;
+      transition: box-shadow 0.5s;
+  }
+  
+  
+  .panel-heading {
+      color: #fff !important;
+      background-color: rgb(40, 55, 85) !important;
+
+      border-bottom: 1px solid transparent;
+      
+  }
+  
+  
+
+body {
+	padding-top: 50px;
+	color: #959595;
+	}
+
+h1, h2, h3, h4, h5, h6 {
+	color: 	#838b8b;
+	}
+	
+p.extra {
+
+font-size: 20px;
+text-align:justify;
+
+}
+
+ul.extra{
+	
+	text-align:left;
+}
+
+h1.extra{
+
+font-size:26px;
+color: #838b8b;
+}
+
+h1.Niederlassung{
+	color: white;
+	
+}
+h3.Niederlassung{
+	
+	color: white;
+		
+}
+
+
+a{
+	color:#838b8b;
+	
+}
+
+.navbar{
+	background-color: rgb(91, 22, 253) ;
+}
+
+.active{
+	background-color:white;
+}
+
+.softwareentwicklung {
+	text-align: center;
+}
+
+.feature {
+background: rgb(91, 22, 253);
+color: white;
+
+	}
+
+#feature-carousel {
+	min-height: 250px;
+	}
+
+.article-intro {
+    margin-bottom: 25px;
+	
+}
+
+.footer-blurb {
+    
+    color: black;
+}
+
+.footer-blurb-item {
+        
+	}
+
+.small-print {
+	background-color: #fff;
+
+
+}
+.col-md-4 .col-md-12{
+	
+	
+}
+
+.feature,
+.page-intro,
+.article-intro,
+.footer-blurb,
+.small-print {
+	text-align: center;
+	font-size: 18px;
+	}
