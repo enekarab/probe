@@ -1,8 +1,9 @@
- *{
-	padding: 0;
-	margin: 0;
-	display: auto;
- }
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
  .panel {
       border: 0px solid; 
       border-radius:0 !important;
@@ -18,6 +19,19 @@
       
   }
   
+
+  .container {
+    max-width: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.row {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
   
 
 body {
@@ -117,3 +131,6 @@ color: white;
 	text-align: center;
 	font-size: 18px;
 	}
+
+
+	
